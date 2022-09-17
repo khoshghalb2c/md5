@@ -1,4 +1,4 @@
-# md5
+# sMD5
 If you want to convert a text or number into an 32 character unbreakable cipher in JavaScript, use this function
 
 ## Getting Started

@@ -10,7 +10,7 @@ you must add `<script src="https://cdn.jsdelivr.net/gh/sazl-ir/md5@main/main.js"
 
 ### Example:
 
-you can goto (`example.html`)[/example.html] and see example of this function. or you can scroll down and see example in this window.
+you can goto [`example.html`](/example.html) and see example of this function. or you can scroll down and see example in this window.
 
 ```
 <!DOCTYPE html>

@@ -1,5 +1,5 @@
 /*!
-  * sMD5 > Owner is https://github.com/sazl-ir;
+  * sMD5 > Owner is https://github.com/khoshghalb2c;
   * Copyright 2020-2021;
   */
   function sMD5(inputString){
@@ -121,4 +121,4 @@
     }
     return rh(a)+rh(b)+rh(c)+rh(d);
   }
-/*!* POWERED BY SAZL.IR *!*/
+/*!* POWERED BY khoshghalb2c.ir *!*/

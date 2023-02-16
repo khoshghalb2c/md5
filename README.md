@@ -26,3 +26,8 @@ or you can scroll down and see example in this window.
     </body>
   </html>
 ```
+
+### Licence:
+```
+Copyright © 2020 Khoshghalb2c.ir. All Rights Reserved.
+```

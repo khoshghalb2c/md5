@@ -1,6 +1,6 @@
 /*!
   * sMD5 > Owner is https://github.com/khoshghalb2c;
-  * Copyright 2020-2021;
+  * Copyright © 2020;
   */
   function sMD5(inputString){
     var hc = "0123456789abcdef";
